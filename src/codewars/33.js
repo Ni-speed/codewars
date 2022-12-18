@@ -1,0 +1,1 @@
+greet = called => 'hello world!'
